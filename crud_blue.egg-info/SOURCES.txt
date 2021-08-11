@@ -1,0 +1,6 @@
+setup.py
+crud_blue.egg-info/PKG-INFO
+crud_blue.egg-info/SOURCES.txt
+crud_blue.egg-info/dependency_links.txt
+crud_blue.egg-info/entry_points.txt
+crud_blue.egg-info/top_level.txt

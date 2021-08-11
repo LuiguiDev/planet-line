@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        crud_blue=crud_blue:enter
+    
