@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup (
-    name='crud_blue',
+    name='crud',
     version='0.1',
-    blue_modules=['crud_blue'],
+    blue_modules=['crud'],
     intall_requires=[
         'Click',
     ],
     entry_points='''
         [console_scripts]
-        crud_blue=crud_blue:enter
+        crud=crud:cli
     ''',
 )
